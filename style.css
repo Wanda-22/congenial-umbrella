@@ -1,0 +1,24 @@
+.w{
+    width: 100%;
+    font-size: 35px;
+    margin: 0;
+    box-shadow: 10px 10px 10px #7CFC00;
+}
+.z{
+    font-size: 20px;
+    color: RebeccaPurple;
+}
+.t{
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    background-color: Sienna;
+    color: cornsilk;
+    line-height: 4;
+    text-align: center;
+}
+canvas{
+    border: 5px dashed black;
+    border-radius: 25px;
+    background-color: dimgrey;
+}
